@@ -43,7 +43,7 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sirisuanjan&show_icons=true&theme=transparent&hide_border=true&title_color=111827&text_color=374151&icon_color=02569B&bg_color=ffffff" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=siriusanjan&show_icons=true&theme=transparent&hide_border=true&title_color=111827&text_color=374151&icon_color=02569B&bg_color=ffffff" alt="GitHub Stats" />
 </p>
 ## 💬 Let’s Connect
 
