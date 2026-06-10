@@ -58,11 +58,7 @@
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=flat-square&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=siriusanjan&show_icons=true&theme=transparent&hide_border=true&title_color=111827&text_color=374151&icon_color=02569B&bg_color=ffffff" alt="GitHub Stats" />
-</p>
 ## 💬 Let’s Connect
 
 - 💡 Ask me about: **Flutter, Mobile Architecture, Firebase, Tech Career in Nepal**
